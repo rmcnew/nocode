@@ -1,53 +1,41 @@
-# No Code
+# "No Code" or Nihilist Software Engineering
+
+
+No code runs faster than no code.
+
+No code has fewer bugs than no code.
+
+No code uses less memory than no code.
+
+No code is easier to understand than no code.
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
-## Getting Started
 
-Start by not writing any code.
+"One of my most productive days was throwing away 1,000 lines of code."
+-- Ken Thompson
 
-```
 
-```
+== Master Foo and the Ten Thousand Lines ==
+Master Foo once said to a visiting programmer: “There is more Unix-nature in one line of shell script than there is in ten thousand lines of C.”
 
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+The programmer, who was very proud of his mastery of C, said: “How can this be? C is the language in which the very kernel of Unix is implemented!”
 
-```
+Master Foo replied: “That is so. Nevertheless, there is more Unix-nature in one line of shell script than there is in ten thousand lines of C.”
 
-```
+The programmer grew distressed. “But through the C language we experience the enlightenment of the Patriarch Ritchie! We become as one with the operating system and the machine, reaping matchless performance!”
 
-The possibilities are endless.
+Master Foo replied: “All that you say is true. But there is still more Unix-nature in one line of shell script than there is in ten thousand lines of C.”
 
-### Building the Application
+The programmer scoffed at Master Foo and rose to depart. But Master Foo nodded to his student Nubi, who wrote a line of shell script on a nearby whiteboard, and said: “Master programmer, consider this pipeline. Implemented in pure C, would it not span ten thousand lines?”
 
-Now that you have not done anything it's time to build your application:
+The programmer muttered through his beard, contemplating what Nubi had written. Finally he agreed that it was so.
 
-```
+“And how many hours would you require to implement and debug that C program?” asked Nubi.
 
-```
+“Many,” admitted the visiting programmer. “But only a fool would spend the time to do that when so many more worthy tasks await him.”
 
-Yep. That's it. You should see the following output:
+“And who better understands the Unix-nature?” Master Foo asked. “Is it he who writes the ten thousand lines, or he who, perceiving the emptiness of the task, gains merit by not coding?”
 
-```
-
-```
-
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-```
-
-```
-
-I know right?
-
-## Contributing
-
-You don't.
+Upon hearing this, the programmer was enlightened.
+-- From "The Art of Unix Programming" by Eric Raymond
