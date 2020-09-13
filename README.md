@@ -1,6 +1,5 @@
 # "No Code" or Nihilist Software Engineering
 
-
 No code runs faster than no code.
 
 No code has fewer bugs than no code.
@@ -9,14 +8,15 @@ No code uses less memory than no code.
 
 No code is easier to understand than no code.
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+No code is the best way to have secure and reliable applications. Write nothing; deploy nowhere.
 
 
-"One of my most productive days was throwing away 1,000 lines of code."
+_One of my most productive days was throwing away 1,000 lines of code._
+
 -- Ken Thompson
 
 
-== Master Foo and the Ten Thousand Lines ==
+## Master Foo and the Ten Thousand Lines
 Master Foo once said to a visiting programmer: “There is more Unix-nature in one line of shell script than there is in ten thousand lines of C.”
 
 The programmer, who was very proud of his mastery of C, said: “How can this be? C is the language in which the very kernel of Unix is implemented!”
@@ -38,4 +38,5 @@ The programmer muttered through his beard, contemplating what Nubi had written. 
 “And who better understands the Unix-nature?” Master Foo asked. “Is it he who writes the ten thousand lines, or he who, perceiving the emptiness of the task, gains merit by not coding?”
 
 Upon hearing this, the programmer was enlightened.
--- From "The Art of Unix Programming" by Eric Raymond
+
+[Source: "The Art of Unix Programming" by Eric Raymond](http://www.catb.org/~esr/writings/unix-koans/ten-thousand.html)
