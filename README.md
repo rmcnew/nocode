@@ -12,7 +12,6 @@ No code is the best way to have secure and reliable applications. Write nothing;
 
 
 _One of my most productive days was throwing away 1,000 lines of code._
-
 -- Ken Thompson
 
 
