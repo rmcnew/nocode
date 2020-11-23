@@ -14,6 +14,11 @@ No code is the best way to have secure and reliable applications. Write nothing;
 _One of my most productive days was throwing away 1,000 lines of code._
 -- Ken Thompson
 
+_The cheapest, fastest, and most reliable components are those that aren’t there._
+-- Gordon Bell
+
+_Deleted code is debugged code._
+-- Jeff Sickel
 
 ## Master Foo and the Ten Thousand Lines
 Master Foo once said to a visiting programmer: “There is more Unix-nature in one line of shell script than there is in ten thousand lines of C.”
